@@ -16,7 +16,7 @@ maintainers = [
 authors = [
     { name = "The Benchmark-Models-PEtab contributors" }
 ]
-urls = { "Homepage" = "https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab" }
+urls = { "Homepage" = "https://github.com/PEtab-dev/petab-benchmark-problems" }
 dependencies = [
     "petab>=0.4.0",
     "pydantic>=2",

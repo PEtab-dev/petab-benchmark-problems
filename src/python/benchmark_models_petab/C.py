@@ -17,5 +17,5 @@ PROBLEM_FILENAME: str = "problem.yaml"
 SIMULATIONS_FILENAME: str = "simulations.tsv"
 METADATA_FILENAME: str = "metadata.yaml"
 
-GITHUB_REPO: str = "Benchmarking-Initiative/Benchmark-Models-PEtab"
-GITHUB_DEFAULT_BRANCH: str = "master"
+GITHUB_REPO: str = "PEtab-dev/petab-benchmark-problems"
+GITHUB_DEFAULT_BRANCH: str = "main"

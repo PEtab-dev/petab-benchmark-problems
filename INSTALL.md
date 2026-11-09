@@ -6,12 +6,12 @@ There are various ways of installing or downloading the benchmark models:
 
 The repository containing the benchmark models can be cloned from GitHub via:
 
-    git clone git@github.com:Benchmarking-Initiative/Benchmark-Models-PEtab.git
+    git clone git@github.com:PEtab-dev/petab-benchmark-problems.git
 
 ## Download source files
 
 The Benchmark files can be downloaded from GitHub as a
-[ZIP file](https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab/archive/refs/heads/master.zip).
+[ZIP file](https://github.com/PEtab-dev/petab-benchmark-problems/archive/refs/heads/main.zip).
 
 ## Python package
 
@@ -20,7 +20,7 @@ provides access functionality at [src/python](src/python).
 
 It can be installed directly from GitHub via:
 
-    pip install git+https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab.git@master#subdirectory=src/python
+    pip install git+https://github.com/PEtab-dev/petab-benchmark-problems.git@main#subdirectory=src/python
 
 Alternatively, when the whole repository has been cloned (see above),
 the python package can be installed via

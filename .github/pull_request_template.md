@@ -11,8 +11,8 @@
   - [ ] Experience of fitting / uncertainty analysis (e.g. optimizer used, hyperparameters, reproducibility of best fit)
   - [ ] Source of nominal parameters (e.g.: taken from the original publication, or from your own fitting)
 - [ ] The SBML file
-  - [ ] Annotation with reference to the original publication ([example](https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab/blob/3154d27edbfc4eb19b768465945bc81381a7c964/Benchmark-Models/Rahman_MBS2016/model_Rahman_MBS2016.xml#L4-L14))
-  - [ ] The model ID and model name attributes in the SBML model file match the problem name ([example](https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab/blob/3154d27edbfc4eb19b768465945bc81381a7c964/Benchmark-Models/Rahman_MBS2016/model_Rahman_MBS2016.xml#L3))
+  - [ ] Annotation with reference to the original publication ([example](https://github.com/PEtab-dev/petab-benchmark-problems/blob/3154d27edbfc4eb19b768465945bc81381a7c964/Benchmark-Models/Rahman_MBS2016/model_Rahman_MBS2016.xml#L4-L14))
+  - [ ] The model ID and model name attributes in the SBML model file match the problem name ([example](https://github.com/PEtab-dev/petab-benchmark-problems/blob/3154d27edbfc4eb19b768465945bc81381a7c964/Benchmark-Models/Rahman_MBS2016/model_Rahman_MBS2016.xml#L3))
 - [ ] PEtab files
   - [ ] Files are placed under `problems/<ProblemID>/v1/` (`problem.yaml`, `model.xml`, `conditions.tsv`,
     `measurements.tsv`, `observables.tsv`, `parameters.tsv`, `simulations.tsv`, `visualizations.tsv`);
