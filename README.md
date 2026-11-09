@@ -11,7 +11,7 @@ as well as the numbers of observables, parameters, measurements, and
 experimental conditions, and features such as events, preequilibration,
 and noise and prior distributions.
 For these details, see the sortable and filterable
-[overview tables](https://benchmarking-initiative.github.io/Benchmark-Models-PEtab/).
+[overview tables](https://petab-dev.github.io/petab-benchmark-problems/).
 
 The following table lists the problems in the collection and the
 available encodings in PEtab v1 and v2.

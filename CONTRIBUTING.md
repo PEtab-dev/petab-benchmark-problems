@@ -51,5 +51,5 @@ log-transformed. If the same placeholder also receives non-positive numbers or p
 stay on linear scale, the observable is split, so that each copy's placeholder only receives
 overrides that can be log-transformed, or none at all.
 
-See [#333](https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab/issues/333) for
+See [#333](https://github.com/PEtab-dev/petab-benchmark-problems/issues/333) for
 the rationale (option C there).

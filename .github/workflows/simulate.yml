@@ -2,7 +2,7 @@ name: Simulate
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   merge_group:
   schedule:
