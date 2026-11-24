@@ -1,0 +1,4 @@
+observableId	observableName	observableFormula	noiseFormula	observableTransformation	noiseDistribution
+BRET	BRET	AMPc1+AMPc2+AMPc3	sigma_1	lin	normal
+CAAX	CAAX	alpha_2*(R1+LR1-1)	sigma_2	lin	normal
+FYVE	FYVE	alpha_3*LR3	sigma_3	lin	normal
