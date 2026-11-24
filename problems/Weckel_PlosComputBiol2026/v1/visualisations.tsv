@@ -1,0 +1,12 @@
+plotId	plotName	plotTypeSimulation	plotTypeData	datasetId	xValues	xOffset	xLabel	yValues	yOffset	yLabel	legendEntry	xScale	yScale
+dose_ligand=_0.0	dose_ligand=_0.0	LinePlot	MeanAndSEM	FSH_0.0_Anti-HEL-HFc_0	time	0	Time (min)	BRET	0	BRET	dose_vhh=_0	lin	lin
+dose_ligand=_0.1	dose_ligand=_0.1	LinePlot	MeanAndSEM	FSH_0.1_Anti-HEL-HFc_0	time	0	Time (min)	BRET	0	BRET	dose_vhh=_0	lin	lin
+dose_ligand=_0.3	dose_ligand=_0.3	LinePlot	MeanAndSEM	FSH_0.3_Anti-HEL-HFc_0	time	0	Time (min)	BRET	0	BRET	dose_vhh=_0	lin	lin
+dose_ligand=_1.0	dose_ligand=_1.0	LinePlot	MeanAndSEM	FSH_1.0_Anti-HEL-HFc_0	time	0	Time (min)	BRET	0	BRET	dose_vhh=_0	lin	lin
+dose_ligand=_3.0	dose_ligand=_3.0	LinePlot	MeanAndSEM	FSH_3.0_Anti-HEL-HFc_0	time	0	Time (min)	BRET	0	BRET	dose_vhh=_0	lin	lin
+dose_ligand=_10.0	dose_ligand=_10.0	LinePlot	MeanAndSEM	FSH_10.0_Anti-HEL-HFc_0	time	0	Time (min)	BRET	0	BRET	dose_vhh=_0	lin	lin
+dose_ligand=_0.0_CAAX	dose_ligand=_0.0_CAAX	LinePlot	MeanAndSEM	FSH_0.0_Anti-HEL-HFc_0_CAAX	time	0	Time (min)	CAAX	0	CAAX	dose_vhh=_0	lin	lin
+dose_ligand=_100.0_CAAX	dose_ligand=_100.0_CAAX	LinePlot	MeanAndSEM	FSH_100.0_Anti-HEL-HFc_0_CAAX	time	0	Time (min)	CAAX	0	CAAX	dose_vhh=_0	lin	lin
+dose_ligand=_0.0_FYVE	dose_ligand=_0.0_FYVE	LinePlot	MeanAndSEM	FSH_0.0_Anti-HEL-HFc_0_FYVE	time	0	Time (min)	FYVE	0	FYVE	dose_vhh=_0	lin	lin
+dose_ligand=_100.0_FYVE	dose_ligand=_100.0_FYVE	LinePlot	MeanAndSEM	FSH_100.0_Anti-HEL-HFc_0_FYVE	time	0	Time (min)	FYVE	0	FYVE	dose_vhh=_0	lin	lin
+dose_ligand=_1.0	dose_ligand=_1.0	LinePlot	MeanAndSEM	FSH_1.0_Anti-HEL-HFc_0_ps2_3000	time	0	Time (min)	BRET	0	BRET	drogue	lin	lin
