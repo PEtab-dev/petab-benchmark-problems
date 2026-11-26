@@ -53,12 +53,12 @@ log10_offset_pJAK2_fine	log10(offset_{pJAK2,fine})	-3.0	3.0	-1.6643761122000025	
 log10_offset_pJAK2_long	log10(offset_{pJAK2,long})	-3.0	3.0	-2.0234963334999945	true	uniform	-3.0;3.0
 log10_offset_pJAK2_shp1oe	log10(offset_{pJAK2,shp1oe})	-3.0	3.0	-1.5740198927000035	true	uniform	-3.0;3.0
 log10_offset_pJAK2_socs3oe	log10(offset_{pJAK2,socs3oe})	-3.0	3.0	-1.223644260499998	true	uniform	-3.0;3.0
-offset_pSTAT5_actd	offset_{pSTAT5,actd}	0.001	1000.0	0.001868785567417	true	uniform	0.001;1000.0
-offset_pSTAT5_cisoe	offset_{pSTAT5,cisoe}	0.001	1000.0	0.070791697579138	true	uniform	0.001;1000.0
+log10_offset_pSTAT5_actd	log10(offset_{pSTAT5,actd})	-3.0	3.0	-2.7284405285998865	true	uniform	-3.0;3.0
+log10_offset_pSTAT5_cisoe	log10(offset_{pSTAT5,cisoe})	-3.0	3.0	-1.1500176732000018	true	uniform	-3.0;3.0
 log10_offset_pSTAT5_conc	log10(offset_{pSTAT5,conc})	-3.0	3.0	-0.6255679136000001	true	uniform	-3.0;3.0
-offset_pSTAT5_long	offset_{pSTAT5,long}	0.001	1000.0	0.001093070638337	true	uniform	0.001;1000.0
-offset_pSTAT5_shp1oe	offset_{pSTAT5,shp1oe}	0.001	1000.0	0.054941495350482	true	uniform	0.001;1000.0
-offset_pSTAT5_socs3oe	offset_{pSTAT5,socs3oe}	0.001	1000.0	0.005613364786273	true	uniform	0.001;1000.0
+log10_offset_pSTAT5_long	log10(offset_{pSTAT5,long})	-3.0	3.0	-2.9613517714000777	true	uniform	-3.0;3.0
+log10_offset_pSTAT5_shp1oe	log10(offset_{pSTAT5,shp1oe})	-3.0	3.0	-1.2600995245000026	true	uniform	-3.0;3.0
+log10_offset_pSTAT5_socs3oe	log10(offset_{pSTAT5,socs3oe})	-3.0	3.0	-2.2507767340999982	true	uniform	-3.0;3.0
 log10_scale1_CIS_dr90	log10(scale1_{CIS,dr90})	-3.0	3.0	1.244602287299999	true	uniform	-3.0;3.0
 log10_scale2_CIS_dr90	log10(scale2_{CIS,dr90})	-3.0	3.0	1.2073802171000008	true	uniform	-3.0;3.0
 log10_scale_CISRNA_foldA	log10(scale_{CISRNA,foldA})	-3.0	3.0	1.5222125065999996	true	uniform	-3.0;3.0
@@ -113,4 +113,5 @@ log10_sd_SOCS3_au	log10(sd_{SOCS3,au})	-3.0	3.0	-1.1171988381000015	true	uniform
 log10_sd_STAT5_abs	log10(sd_{STAT5,abs})	-3.0	3.0	-0.9225660582000006	true	uniform	-3.0;3.0
 log10_sd_STAT5_au	log10(sd_{STAT5,au})	-3.0	3.0	-0.9082665521999982	true	uniform	-3.0;3.0
 log10_sd_pSTAT5_rel	log10(sd_{pSTAT5,rel})	-3.0	3.0	0.40943273019999926	true	uniform	-3.0;3.0
-sd_pSTAT5_socs3oe	sd_{pSTAT5,socs3oe}	0.001	1000.0	0.573852497761907	true	uniform	0.001;1000.0
+log10_sd_pSTAT5_socs3oe	log10(sd_{pSTAT5,socs3oe})	-3.0	3.0	-0.24119972370000015	true	uniform	-3.0;3.0
+negative_infinity				-inf	false		

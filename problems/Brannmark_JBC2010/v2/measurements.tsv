@@ -1,4 +1,4 @@
-observableId	experimentId	time	measurement	observableParameters	noiseParameters	experiment_id_52678f65-214f-428c-8a10-4fc1cf185f61	independentVariableId	datasetId
+observableId	experimentId	time	measurement	observableParameters	noiseParameters	experimentId_v1	independentVariableId	datasetId
 IRS1_P_DosR	experiment__Dose_0___Dose_0	10.0	18.385	log10_k_IRSiP_DosR	log10_sigmaYDosR	dose_response	insulin_dose_1	DosR
 IRS1_P_DosR	experiment__Dose_0___Dose_001	10.0	29.115	log10_k_IRSiP_DosR	log10_sigmaYDosR	dose_response	insulin_dose_1	DosR
 IRS1_P_DosR	experiment__Dose_0___Dose_01	10.0	26.365	log10_k_IRSiP_DosR	log10_sigmaYDosR	dose_response	insulin_dose_1	DosR
